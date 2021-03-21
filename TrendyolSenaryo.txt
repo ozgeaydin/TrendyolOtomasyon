@@ -1,0 +1,29 @@
+Trendyol Proje Senaryosu
+
+1-'https://www.trendyol.com/' linkine git.
+
+2- Cinsiyetine göre resmin üzerine gel ve tıkla. 
+
+3- Arama kısmına 'Kahve Makinesi' yaz ve ara butonuna tıkla.
+
+4- Filtreler kısmından 'Karaca' markasını seç.
+
+5- Filtreler kısmından 'En çok satanlar' filtresini seç.
+
+6- En çok satan ürüne tıklayıp, ürün detay sayfasına git.
+
+7- Ürünü sepete ekle.
+
+8- Arama kısmına 'Kahve' yaz ve ara butonuna tıkla.
+
+9- Filtreler kısmından 'Önerilenler' filtresini seç.
+
+10- En çok önerilen ürüne tıklayıp, ürün detay sayfasına git.
+
+11- 'Sepete Ekle' butonuna basıp ve ürünü sepete ekle.
+
+12- Sepete git.
+
+13- Sepetteki kahveyi +1 arttır.
+
+14- Sepeti onayla ve ödeme adımına geç.
